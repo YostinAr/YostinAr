@@ -10,12 +10,12 @@
 
 <h2>🛠️ Habilidades Técnicas</h2>
 <ul>
-    <li><strong>Front-end</strong>: 🌐 HTML, CSS, JavaScript, React</li>
+    <li><strong>Front-end</strong>: 🌐 HTML, CSS, JavaScript, Angular, React</li>
     <li><strong>Back-end</strong>: ⚙️ C#, .NET (Framework y Core), Java, Node.js</li>
-    <li><strong>Bases de Datos</strong>: 🗄️ MySQL, SQLite, Oracle (PLSQL), MongoDB</li>
+    <li><strong>Bases de Datos</strong>: 🗄️ SQL Server, MySQL, SQLite, Oracle (PLSQL), MongoDB</li>
     <li><strong>Infraestructura</strong>: 🖥️ Servidores, Linux, Windows Server</li>
     <li><strong>Control de Versiones</strong>: 🔧 Git, GitHub</li>
-    <li><strong>Otros</strong>: 📊 PowerBI, SharePoint</li>
+    <li><strong>Otros</strong>: 📊 PowerBI, SharePoint, Selenium(test)</li>
 </ul>
 
 <h2>🏆 Certificaciones</h2>
