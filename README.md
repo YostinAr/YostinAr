@@ -46,7 +46,7 @@ My focus on collaborative work, strategic problem-solving, and continuous innova
 ## 📞 Contact
 - **Phone**: [+506 8494-0560](tel:+50684940560)
 - **Email**: [yostinarias220@gmail.com](mailto:yostinarias220@gmail.com)
-- **GitHub**: [YostinAr](https://github.com/YostinArias)
+- **GitHub**: [YostinArias](https://github.com/YostinArias)
 
 ---
 
