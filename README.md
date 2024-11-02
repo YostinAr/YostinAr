@@ -50,4 +50,4 @@ My focus on collaborative work, strategic problem-solving, and continuous innova
 
 ---
 
-**Thank you for visiting my profile!** 😊
+**Thank you for visiting my profile!**
