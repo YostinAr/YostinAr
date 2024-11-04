@@ -25,19 +25,19 @@ My focus on collaborative work, strategic problem-solving, and continuous innova
 ### Overall GitHub Statistics
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YostinArias&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false&hide_border=true" alt="Yostin's GitHub stats" width="49%">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YostinArias&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" width="49%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YostinAr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false&hide_border=true" alt="Yostin's GitHub stats" width="49%">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YostinAr&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" width="49%">
 </div>
 
 <br/><br/><br/><br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YostinArias&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=YostinAr&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true)
 
 ---
 
 ## 🏆 Certifications
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YostinArias&theme=radical&no-bg=true&no-frame=true&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YostinAr&theme=radical&no-bg=true&no-frame=true&column=7)
 
 - **Cisco Networking Academy**: 🌐 Introduction to Networks
 - **Scrum Fundamentals Certified** (ScrumStudy)
@@ -48,7 +48,7 @@ My focus on collaborative work, strategic problem-solving, and continuous innova
 
 - **Phone**: [+506 8494-0560](tel:+50684940560)
 - **Email**: [yostinarias220@gmail.com](mailto:yostinarias220@gmail.com)
-- **GitHub**: [YostinArias](https://github.com/YostinArias)
+- **GitHub**: [YostinAr](https://github.com/YostinAr)
 
 ---
 
